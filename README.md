@@ -1,2 +1,2 @@
-# elect_questions
-The best programming problems with beautiful solutions I found around the Internet
+# Elect Questions
+The best programming problems with beautiful solutions I have found around the Internet
